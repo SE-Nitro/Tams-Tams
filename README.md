@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tams-Tams known in [Stack Exchange](https://codegolf.stackexchange.com/users/96037/math) as _Maths_, a programmer and a mathematician.
+- 👋 Hi, I’m @Tams-Tams, known in [Stack Exchange](https://codegolf.stackexchange.com/users/96037/math) as _Maths_, a programmer and a mathematician.
 - 👀 I’m interested in Maths, Javascript, P5.js, Processing, Git and Github.
 - 🌱 I’m currently making a programming language, PyLite.
 - 💞️ I’m looking to finish my laguage.
