@@ -4,4 +4,4 @@
 - 💞️ I’m looking to finish my laguage.
 - 📫 How to reach me; just send an email at tams.mathe@gmail.com.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tams-Tams)](https://github.com/anuraghazra/github-readme-stats)
+[![Tams-Tams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tams-Tams&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
