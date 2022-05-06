@@ -1,4 +1,4 @@
-So yeah I'm me.
+Hey look it's me!
 Look down for pinned repos.
 
 [![Tams-Tams's GitHub stats](https://github-readme-stats.vercel.app/api?username=SE-Nitro&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
